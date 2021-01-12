@@ -15,4 +15,9 @@
     <string name="open">Open</string>
     <string name="close">Close</string>
     <string name="exception_message">must implement OnFragmentInteractionListener</string>
+    <string name="question_the_song">LIKE THE SONG?</string>
+    <string name="yes_message2">SONG: Like</string>
+    <string name="no_message2">SONG: Thanks</string>
+    <string name="my_rating">My Rating:</string>
+
 </resources>
